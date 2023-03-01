@@ -1,0 +1,2 @@
+echo export SOPS_AGE_RECIPIENTS=age1zka597n539p33rfe634zj0l35c6zdkpj3z54ga345rqgru653efqha4za9
+echo 'export SOPS_AGE_KEY_FILE=$(realpath key.txt)'
