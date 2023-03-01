@@ -1,0 +1,5 @@
+age : v1.1.1
+sops : 3.7.3 (latest)
+helm secret version : 4.3.0
+helm : v3.9.3
+helmfile : 0.150.0
