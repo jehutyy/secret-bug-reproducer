@@ -1,3 +1,7 @@
+Tests have been done on a k3d cluster installed like this :
+
+---> `k3d cluster create foo`
+
 1. `bash env` then execute displayed export command
 2. `helmfile apply -i`
 3. Notice how `cert-unencrypted` displays a diff of N bytes for tls.key
